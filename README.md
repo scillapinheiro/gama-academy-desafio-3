@@ -60,4 +60,4 @@ Você pode acessar o site [aqui.](https://ligadobem.com.br/)
 
 
 ## :bookmark: Layout
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/A5kxoW4I0U8J7zrcP9FwLU/Liga-do-Bem). Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/A5kxoW4I0U8J7zrcP9FwLU/Liga-do-Bem?node-id=26%3A3). Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com/) para acessá-lo.
